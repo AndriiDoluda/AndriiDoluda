@@ -1,19 +1,18 @@
-Hello, World! 👋
-Developer Profile
-Hello! My name is [Your Name], and I'm a web developer. I specialize in the following areas:
+Hello! My name is Andrii, and I'm a web developer. I specialize in the following areas:
 
 HTML: Markup and structuring web pages.
 CSS: Styling and creating appealing user interfaces.
 JavaScript: Working with dynamic web pages and building interactive applications.
 React: Developing scalable and performant web applications.
 Figma: Proficient in using Figma for design and prototyping.
-Skills and Tools
-Projects
-Project 1: [Project Name 1]
+
+
+Projects:
+Project 1: [Focus frame]
 Description of Project 1. You can check it out here.
 
 
-Project 2: [Project Name 2]
+Project 2: [Food Buetiqe]
 Description of Project 2. You can check it out here.
 
 
@@ -22,9 +21,6 @@ Description of Project 3. You can check it out here.
 
 
 Programming Languages
-
-
-
 
 Connect with Me
 LinkedIn
