@@ -2,12 +2,12 @@
 
 <h1> Hello! My name is Andrii, and I'm a web developer. I specialize in the following areas:</h1>
 
-HTML: Markup and structuring web pages.
-CSS: Styling and creating appealing user interfaces.
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20" height="20"/><br/>
-JavaScript: Working with dynamic web pages and building interactive applications.
-React: Developing scalable and performant web applications.
-Figma: Proficient in using Figma for design and prototyping.
+HTML: Markup and structuring web pages.<br/>
+CSS: Styling and creating appealing user interfaces.<br/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20" height="20"/>
+JavaScript: Working with dynamic web pages and building interactive applications.<br/>
+React: Developing scalable and performant web applications.<br/>
+Figma: Proficient in using Figma for design and prototyping.<br/>
 
 
 Projects:
