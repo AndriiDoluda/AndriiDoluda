@@ -1,4 +1,4 @@
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Skw1&theme=highcontrast&mode=weekly" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats" style="margin:0 auto;"><img src="https://github-readme-streak-stats.herokuapp.com?user=Skw1&theme=highcontrast&mode=weekly" alt="GitHub Streak" /></a>
 
 
 <h1> Hello! My name is Andrii, and I'm a web developer. I specialize in the following areas:</h1>
