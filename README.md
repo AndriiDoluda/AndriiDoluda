@@ -1,10 +1,11 @@
 
 
-<h1> Hello! My name is Andrii, and I'm a web developer. I specialize in the following areas:</h1>
-
+<h1> Hello! My name is Andrii, and I'm a web developer. I specialize in the following areas:</h1> </br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="16" height="16"/>
 HTML: Markup and structuring web pages.<br/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="16" height="16"/>
 CSS: Styling and creating appealing user interfaces.<br/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20" height="20"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="16" height="16"/>
 JavaScript: Working with dynamic web pages and building interactive applications.<br/>
 React: Developing scalable and performant web applications.<br/>
 Figma: Proficient in using Figma for design and prototyping.<br/>
