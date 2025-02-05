@@ -27,7 +27,7 @@ I am a passionate **Web Developer** focused on creating modern, responsive, and 
 
 ### 🍽 [Food Boutique](https://github.com/yourusername/Food-Boutique)  
 *An e-commerce website for a premium food brand.*  
-- **Tech Stack:** React, JavaScript, CSS  
+- **Tech Stack:** HTML, CSS, JavaScript, Figma  
 - **Role:** Team Lead, Frontend Developer  
 
 ### ⚡ [Project Name 3](https://github.com/yourusername/Project3)  
